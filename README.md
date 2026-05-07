@@ -14,6 +14,7 @@ The code was written using the makecode editor for the BBC Microbit https://make
 3) When reaching a Temperature of 30 °C The Microbit will make a repeating sound signal (a smal melody played in intervals) till it reaches 40 °C.  
    After reaching 40°C it will make an audible alarm noise (3 repeating beeps) till it reaches 50°C.  
    When reaching 50°C the Thermometer wich make a quickly repeating alarm noise and displays a Skull on th LED Matrix.  
-   For those who are annoyed by the sound warning it can be mutet via pressing the B Button.
+   For those who are annoyed by the sound warning it can be mutet via pressing the B Button.  
+   In case the warning is wanted again, sound can be reanabled via pressing the Button A and B or Pressing the AB Button on the back of the Microbit_V2.  
 <img width="227,66" height="183" alt="image" src="https://github.com/user-attachments/assets/ecf86e2d-df76-4100-b8e5-8fbd513f7c9c" />
    
