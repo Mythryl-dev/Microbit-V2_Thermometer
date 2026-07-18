@@ -10,7 +10,8 @@ Developed with the **Microsoft MakeCode Editor**: https://makecode.microbit.org/
 ### 1. LED Temperature Bar Graph
 
 The 5×5 LED matrix displays the current temperature as a vertical bar graph.  
-<img width="224" height="180" alt="Temperature Graph" src="https://github.com/user-attachments/assets/d315d7e0-82f6-4b53-886e-a488383e171d" />
+Since the display contains only **25 LEDs**, one LED represents approximately **2°C** when displaying temperatures over a range of **0°C to 50°C**.  
+<img width="224" height="180" alt="Temperature Graph" src="https://github.com/user-attachments/assets/d315d7e0-82f6-4b53-886e-a488383e171d" />  
 
 ---
 
