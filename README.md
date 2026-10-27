@@ -1,4 +1,8 @@
 # Microbit_V2 Thermometer
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-micro%3Abit_V2-red.svg?)](https://microbit.org/)
+[![Editor](https://img.shields.io/badge/Editor-MakeCode-purple.svg?)](https://makecode.microbit.org/)
+[![Version](https://img.shields.io/github/v/release/Mythryl-dev/Microbit-V2_Thermometer?label=Version&color=green)](https://github.com/Mythryl-dev/Microbit-V2_Thermometer/releases/latest)
 
 A simple digital thermometer built for the **BBC micro:bit V2** using the **Microsoft MakeCode Editor**.
 The project uses the micro:bit's built-in temperature sensor, LED matrix, buttons, and speaker to provide a visual and audible temperature monitoring system.
